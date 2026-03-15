@@ -5,7 +5,7 @@
 
 ---
 
-**AI Motion Comic & Video Factory** is an AI-powered one-stop platform for short films and motion comics, designed for creators to efficiently produce content from inspiration to final output.  
+**GCC AI Motion Comic & Video Factory** is an AI-powered one-stop platform for short films and motion comics, designed for creators to efficiently produce content from inspiration to final output.  
 It abandons traditional "lottery-style" generation and adopts an industrialized **"Script-to-Asset-to-Keyframe"** workflow. By deeply integrating advanced AI models via the **AntSK API**, it achieves **"full automation from script to final output with a single sentence"**, while precisely controlling character consistency, scene continuity, and camera movements.
 
 ---
@@ -22,7 +22,7 @@ It abandons traditional "lottery-style" generation and adopts an industrialized 
 ---
 
 ### **Core Philosophy: Keyframe-Driven**
-Traditional **Text-to-Video** methods often struggle to control specific camera movements and frame transitions. **BigBanana** introduces the **Keyframe** concept from animation production:  
+Traditional **Text-to-Video** methods often struggle to control specific camera movements and frame transitions. **Big Director** introduces the **Keyframe** concept from animation production:  
 
 1. **Frame-First Approach**: Generate precise **Start** and **End** frames first.  
 2. **Interpolation**: Use the **Veo model** to create smooth video transitions between frames.  
