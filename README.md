@@ -1,4 +1,5 @@
-### AI Motion Comic & Video Factory
+#  GCC AI Motion Comic & Video Factory
+
 **AI One-Stop Short Film/Motion Comic Generation Platform**  
 **Industrial AI Motion Comic & Video Workbench**
 
@@ -114,7 +115,7 @@ npm run dev
 ```bash
 # 1. Clone the project
 git clone https://github.com/yuanzhongqiao/deep-comedy-pro.git
-cd BigBanana-AI-Director
+cd deep-comedy-pro
 
 # 2. Build and start with Docker Compose
 docker-compose up -d --build
@@ -167,8 +168,11 @@ docker-compose up -d --force-recreate
 ---
 
 ### **Quick Start Guide**  
+
 1. **Configure API Key**: Launch the app and input your **API Key** (from api.gitcc.com).  
 2. **Story Input**: Enter your story idea in **Phase 01** and click **"Generate Storyboard."**  
 3. **Art Setup**: Proceed to **Phase 02** to generate character reference images and key scene art.  
 4. **Shot Production**: Move to **Phase 03** to generate keyframes for each shot.  
 5. **Animation Generation**: Confirm keyframes and batch-generate video clips.
+
+# MIT
