@@ -1,5 +1,12 @@
 # deep-comedy-pro 中文手册
 
+客户端下载尝试
+
+
+通过网盘分享的文件：短剧平台安装程序.zip
+链接: https://pan.baidu.com/s/1gUzHmP9Bqbi3U8C9jVpzrw?pwd=k4qa 提取码: k4qa 
+--来自百度网盘超级会员v9的分享
+
 ## 📖 项目简介
 
 deep-comedy-pro 是一个基于人工智能的短片与动态漫画一站式生成平台，  **Big Director**。该项目致力于实现“一句话生成完整视频”的工业化内容生产目标，为创作者提供从灵感输入到成品输出的全流程自动化解决方案。
