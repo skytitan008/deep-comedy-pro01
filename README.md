@@ -7,8 +7,12 @@ Films  Moive and Drama  by   PrintFilm-Pro
 
 一句话生成短视频  www.printfilm.com
 
-AI生成短剧： 源代码和客户端
+AI生成短剧： 
 
+Windows Application： AI Short Drama Setup  
+
+链接: https://pan.baidu.com/s/1xbaJRdV0kF6XNDbLX8Y5dA 提取码: bk4r 
+--来自百度网盘超级会员v4的分享
 
 
 
