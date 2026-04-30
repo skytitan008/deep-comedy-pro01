@@ -1,4 +1,8 @@
+# Print Film
 
+AI Comic & Short Drama Studio is an AI creation workspace designed for creators of short dramas, comic dramas, motion comics and film storyboards. It aims to rapidly turn story ideas into previewable, exportable and editable visual assets and video clips.
+
+The project adopts a Script-to-Asset-to-Keyframe workflow: finalize the plot and storyboards first, then generate character and scene assets, followed by creating keyframes and videos in the AI workspace, with unified preview and export at the final stage.
 
 #  Produce  Short Videos | Film By  AI    
 
